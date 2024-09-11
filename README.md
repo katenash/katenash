@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I make abstract art and learn languages when I have free time. I'm currently learning Hangul and want to learn Mandarin next.
 
 
-I've worked on many projects such as logo designs, web designs, app designs and artowrk.
+I've worked on many projects such as logo designs, web designs, app designs and artwork.
 I recently designed an app called Minty through Figma that makes banking for people with dyscalculia or low numeracy skills more accessible.
 In time I'd love the opportunity to build the app and let people use it.
 
